@@ -1,4 +1,4 @@
-# 🎓 Udemy Clone (Simple)
+# 🎓 Udemy Clone
 
 A simple Udemy clone built using **HTML and CSS**.  
 This project replicates the basic layout and design of the Udemy homepage and is created for **learning and practice purposes**.
