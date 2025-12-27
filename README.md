@@ -17,6 +17,7 @@ This project replicates the basic layout and design of the Udemy homepage and is
 This project was developed to improve front-end development skills and understand website layouts.
 
 ## 🔗 Live Demo
+https://ajayandrew.github.io/Udemy_Clone_Project/
 
 ## 👨‍💻 Author
 **Ajay Andrew**
